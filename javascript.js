@@ -1,0 +1,1 @@
+$('div').css('background','#19B5FE');
